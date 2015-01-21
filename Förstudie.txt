@@ -1,0 +1,30 @@
+Övergripande om mappning mellan QoS och QoE:
+
+Bridging QoE and QoS for Mobile Broadband Networks.pdf
+
+
+
+Väldigt bra artikel för försåelse av QoE, speciellt i relation med QoS:
+Tar upp probelmatiken med QoE och olika sätt att mäta QoE från QoS
+
+From packets to people- quality of experience as a new measurement challenge.pdf
+
+
+
+omedelbar beräkning av QOE för streamad video baserat på packet loss endast:
+
+Expected Quality of Service (eQoS) A network metric for capturing end-user experience.pdf
+
+
+
+bakgrund om QoE och QoS samt hur man kan simulera QoE från QoS utan subjektiva studier:
+
+A generic quantitative relationship between quality of experience and quality of service.pdf
+
+
+Reflektioner:
+
+Hitta konstanter för varje parameter för varje kategori för ekvationen:\\ 
+MOS = a·log^(-ß·QoS) + ?
+
+Antingen genom existerande forskning eller genom simulationer
